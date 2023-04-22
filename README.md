@@ -1,4 +1,6 @@
-### Hi there 👋, I am Victory Tuduo. welcome to my profile :smile: 
+### Hi there 👋, I am Victory Tuduo. Welcome to my profile :smile: 
+
+![victory calling card](https://github.com/Victory-ET/Victory-ET/assets/54719205/cc2d32e2-3ec5-4989-aef2-59e79af03752)
 
 <!--
 **Victory-ET/Victory-ET** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
