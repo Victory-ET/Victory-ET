@@ -2,7 +2,7 @@
 
 ![victory calling card](https://github.com/Victory-ET/Victory-ET/assets/54719205/cc2d32e2-3ec5-4989-aef2-59e79af03752)
 
-> Best quote by one of the smartest scientist ever; Albert Einstein once said "*We are most productive when we focus on a very small number of projects on which we can devote a large amount of attention. Achievements worth achieving require hard work*" 
+> Best quote by one of the smartest scientist ever; **Albert Einstein** once said "*We are most productive when we focus on a very small number of projects on which we can devote a large amount of attention. Achievements worth achieving require hard work*" 
 
 <!--
 **Victory-ET/Victory-ET** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
