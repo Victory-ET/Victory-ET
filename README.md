@@ -1,6 +1,9 @@
 ### Hi there 👋, I am Victory Tuduo a software developer and technical writer. Welcome to my profile :smile:.
 
-![victory calling card](https://github.com/Victory-ET/Victory-ET/assets/54719205/cc2d32e2-3ec5-4989-aef2-59e79af03752)
+
+![victory calling card](https://github.com/Victory-ET/Victory-ET/assets/54719205/73f9a47f-0acb-49c7-a11c-d0ae44caa8da)
+
+
 > Best quote by one of the smartest scientist ever; **Albert Einstein** once said "*We are most productive when we focus on a very small number of projects on which we can devote a large amount of attention. Achievements worth achieving require hard work*"
 
 ### 🧰 Favorite Tools
