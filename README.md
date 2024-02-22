@@ -7,6 +7,9 @@
 > Best quote by one of the smartest scientist ever; **Albert Einstein** once said "*We are most productive when we focus on a very small number of projects on which we can devote a large amount of attention. Achievements worth achieving require hard work*"
 
 ### 🧰 Favorite Tools
+![victory-et's Stats](https://github-readme-stats.vercel.app/api?username=victory-et&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+![victory-et's Streak](https://github-readme-streak-stats.herokuapp.com/?user=victory-et&theme=dracula&hide_border=true)<br>
+![victory-et's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victory-et&theme=dracula&show_icons=true&hide_border=true&layout=compact)<br>
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
